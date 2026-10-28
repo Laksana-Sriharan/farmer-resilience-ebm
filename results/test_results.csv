@@ -1,0 +1,5 @@
+,Accuracy,F1,AUC
+Logistic Regression,0.6,0.598,0.592
+Random Forest,0.667,0.666,0.742
+Gradient Boosting,0.667,0.663,0.659
+EBM,0.633,0.627,0.659

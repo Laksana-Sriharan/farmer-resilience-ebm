@@ -1,0 +1,7 @@
+streamlit
+interpret==0.7.8
+scikit-learn
+pandas
+numpy
+matplotlib
+joblib

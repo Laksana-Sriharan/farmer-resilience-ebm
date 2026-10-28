@@ -1,0 +1,3 @@
+Gender,n,Actual High %,Predicted High %,Accuracy
+Female,19,47.4,26.3,0.684
+Male,41,51.2,41.5,0.61

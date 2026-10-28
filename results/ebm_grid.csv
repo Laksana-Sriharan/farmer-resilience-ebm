@@ -1,0 +1,5 @@
+params,mean_test_score,std_test_score
+"{'interactions': 0, 'learning_rate': 0.01}",0.6238170289855073,0.05323662121781725
+"{'interactions': 0, 'learning_rate': 0.05}",0.6182638888888888,0.054410331574975386
+"{'interactions': 5, 'learning_rate': 0.01}",0.6137234299516908,0.08205970700503248
+"{'interactions': 5, 'learning_rate': 0.05}",0.6227530193236713,0.0806187269145714

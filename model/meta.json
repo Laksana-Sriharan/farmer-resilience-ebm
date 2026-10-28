@@ -1,0 +1,438 @@
+{
+ "columns": [
+  "Rice",
+  "Vegetables",
+  "Maize",
+  "Mungbeans",
+  "Groundnut",
+  "Fruits",
+  "Others",
+  "Total Land extent",
+  "Ownership of the land",
+  "Farming experience",
+  "Cash generated from livestock",
+  "Animal rearing system",
+  "Monthly income from farming",
+  "Reservoir",
+  "Rain",
+  "Agro-well",
+  "Is main income Agriculture?",
+  "Off-farm income",
+  "Invest off-farm income on agriculture",
+  "Age of farmer",
+  "Gender of farmer",
+  "Marital status",
+  "Gender of household head",
+  "Household size",
+  "Education level of the farmer",
+  "Agricultural Trainings",
+  "Get Hired labour or not",
+  "Have own vehicle",
+  "Input market",
+  "Output market",
+  "Type of farming",
+  "CH: Extreme weather events",
+  "CH: Soil fertility",
+  "CH: Water scarcity",
+  "CH: Animal attacks",
+  "CH: Pest and disease attacks",
+  "CH: Market price fluctuations",
+  "CH: High input price",
+  "CH: Lack of finance",
+  "CH: Lack of micro credits",
+  "CH: High labour cost",
+  "CH: Market power",
+  "CH: Remoteness",
+  "CH: Lack of extension",
+  "CH: Lack of labor",
+  "CH: Lack of young farmers",
+  "CH: Rural outmigration",
+  "CH: Conflicts",
+  "CH: Lack of Gov. Support",
+  "CH: Ineffective land registration",
+  "CH: Ban of chemicals",
+  "RM: Diversify Agricultural Production",
+  "RM: Using traditional techniques to control pests",
+  "RM: Choose drought-resistant crop/fodder varietie",
+  "RM: Cultivate high-yielding varieties",
+  "RM: Use traditional, organic, home-made bio-ferti",
+  "RM: Rainwater harvesting",
+  "RM: Making fences and other traditional technique",
+  "RM: Engage in home-gardening",
+  "RM: Use technologies and machinery for planting, ",
+  "RM: Practice soil conservation techniques",
+  "RM: Practice drip irrigation/sprinklers to irriga",
+  "RM: Diversify income through engage in non-farm i",
+  "RM: Minimize farming",
+  "RM: Collaboratively working with neighbouring far",
+  "RM: Use digital devices to access the updated inf",
+  "RM: Use family labor whenever possible",
+  "RM: Getting knowledge and support from extension ",
+  "RM: Rather than just selling raw products, sell v",
+  "RM: Have crop/livestock insurance",
+  "RM: Engage in direct marketing/farmer-based marke",
+  "RM: Diversify markets"
+ ],
+ "numeric": {
+  "Rice": [
+   0.0,
+   1.0,
+   1.0
+  ],
+  "Vegetables": [
+   0.0,
+   1.0,
+   0.0
+  ],
+  "Maize": [
+   0.0,
+   1.0,
+   0.0
+  ],
+  "Mungbeans": [
+   0.0,
+   1.0,
+   0.0
+  ],
+  "Groundnut": [
+   0.0,
+   1.0,
+   0.0
+  ],
+  "Fruits": [
+   0.0,
+   1.0,
+   0.0
+  ],
+  "Others": [
+   0.0,
+   1.0,
+   0.0
+  ],
+  "Total Land extent": [
+   1.0,
+   3.0,
+   2.0
+  ],
+  "Farming experience": [
+   1.0,
+   3.0,
+   3.0
+  ],
+  "Cash generated from livestock": [
+   0.0,
+   1.0,
+   0.0
+  ],
+  "Monthly income from farming": [
+   1.0,
+   3.0,
+   1.0
+  ],
+  "Reservoir": [
+   0.0,
+   1.0,
+   1.0
+  ],
+  "Rain": [
+   0.0,
+   1.0,
+   0.0
+  ],
+  "Agro-well": [
+   0.0,
+   1.0,
+   0.0
+  ],
+  "Is main income Agriculture?": [
+   0.0,
+   1.0,
+   1.0
+  ],
+  "Off-farm income": [
+   0.0,
+   1.0,
+   1.0
+  ],
+  "Invest off-farm income on agriculture": [
+   0.0,
+   1.0,
+   1.0
+  ],
+  "Age of farmer": [
+   21.0,
+   81.0,
+   52.0
+  ],
+  "Household size": [
+   1.0,
+   3.0,
+   2.0
+  ],
+  "Education level of the farmer": [
+   1.0,
+   4.0,
+   3.0
+  ],
+  "Agricultural Trainings": [
+   0.0,
+   1.0,
+   0.0
+  ],
+  "Get Hired labour or not": [
+   0.0,
+   1.0,
+   1.0
+  ],
+  "Have own vehicle": [
+   0.0,
+   1.0,
+   0.0
+  ],
+  "Input market": [
+   0.0,
+   1.0,
+   0.0
+  ],
+  "Output market": [
+   0.0,
+   1.0,
+   1.0
+  ],
+  "CH: Extreme weather events": [
+   1.0,
+   5.0,
+   4.0
+  ],
+  "CH: Soil fertility": [
+   1.0,
+   5.0,
+   4.0
+  ],
+  "CH: Water scarcity": [
+   1.0,
+   5.0,
+   4.0
+  ],
+  "CH: Animal attacks": [
+   1.0,
+   5.0,
+   5.0
+  ],
+  "CH: Pest and disease attacks": [
+   1.0,
+   5.0,
+   4.0
+  ],
+  "CH: Market price fluctuations": [
+   1.0,
+   5.0,
+   4.0
+  ],
+  "CH: High input price": [
+   1.0,
+   5.0,
+   4.0
+  ],
+  "CH: Lack of finance": [
+   1.0,
+   5.0,
+   4.0
+  ],
+  "CH: Lack of micro credits": [
+   1.0,
+   5.0,
+   4.0
+  ],
+  "CH: High labour cost": [
+   1.0,
+   5.0,
+   4.0
+  ],
+  "CH: Market power": [
+   1.0,
+   5.0,
+   4.0
+  ],
+  "CH: Remoteness": [
+   1.0,
+   5.0,
+   4.0
+  ],
+  "CH: Lack of extension": [
+   1.0,
+   5.0,
+   4.0
+  ],
+  "CH: Lack of labor": [
+   1.0,
+   5.0,
+   4.0
+  ],
+  "CH: Lack of young farmers": [
+   1.0,
+   5.0,
+   4.0
+  ],
+  "CH: Rural outmigration": [
+   1.0,
+   5.0,
+   2.0
+  ],
+  "CH: Conflicts": [
+   1.0,
+   5.0,
+   2.0
+  ],
+  "CH: Lack of Gov. Support": [
+   1.0,
+   5.0,
+   4.0
+  ],
+  "CH: Ineffective land registration": [
+   1.0,
+   5.0,
+   1.0
+  ],
+  "CH: Ban of chemicals": [
+   1.0,
+   5.0,
+   3.0
+  ],
+  "RM: Diversify Agricultural Production": [
+   0.0,
+   3.0,
+   1.0
+  ],
+  "RM: Using traditional techniques to control pests": [
+   0.0,
+   3.0,
+   0.0
+  ],
+  "RM: Choose drought-resistant crop/fodder varietie": [
+   0.0,
+   3.0,
+   2.0
+  ],
+  "RM: Cultivate high-yielding varieties": [
+   0.0,
+   3.0,
+   3.0
+  ],
+  "RM: Use traditional, organic, home-made bio-ferti": [
+   0.0,
+   3.0,
+   0.0
+  ],
+  "RM: Rainwater harvesting": [
+   0.0,
+   3.0,
+   1.0
+  ],
+  "RM: Making fences and other traditional technique": [
+   0.0,
+   3.0,
+   2.0
+  ],
+  "RM: Engage in home-gardening": [
+   0.0,
+   3.0,
+   3.0
+  ],
+  "RM: Use technologies and machinery for planting, ": [
+   0.0,
+   3.0,
+   3.0
+  ],
+  "RM: Practice soil conservation techniques": [
+   0.0,
+   3.0,
+   1.0
+  ],
+  "RM: Practice drip irrigation/sprinklers to irriga": [
+   0.0,
+   3.0,
+   0.0
+  ],
+  "RM: Diversify income through engage in non-farm i": [
+   0.0,
+   3.0,
+   0.0
+  ],
+  "RM: Minimize farming": [
+   0.0,
+   3.0,
+   1.0
+  ],
+  "RM: Collaboratively working with neighbouring far": [
+   0.0,
+   3.0,
+   2.5
+  ],
+  "RM: Use digital devices to access the updated inf": [
+   0.0,
+   3.0,
+   0.0
+  ],
+  "RM: Use family labor whenever possible": [
+   0.0,
+   3.0,
+   3.0
+  ],
+  "RM: Getting knowledge and support from extension ": [
+   0.0,
+   3.0,
+   2.0
+  ],
+  "RM: Rather than just selling raw products, sell v": [
+   0.0,
+   3.0,
+   0.0
+  ],
+  "RM: Have crop/livestock insurance": [
+   0.0,
+   3.0,
+   0.0
+  ],
+  "RM: Engage in direct marketing/farmer-based marke": [
+   0.0,
+   3.0,
+   0.0
+  ],
+  "RM: Diversify markets": [
+   0.0,
+   3.0,
+   0.0
+  ]
+ },
+ "categorical": {
+  "Ownership of the land": [
+   "Common",
+   "Leasehold",
+   "Own"
+  ],
+  "Animal rearing system": [
+   "Extensive",
+   "Intensive",
+   "None",
+   "Semi-intensive"
+  ],
+  "Gender of farmer": [
+   "Female",
+   "Male"
+  ],
+  "Marital status": [
+   "Married",
+   "Single",
+   "Widow"
+  ],
+  "Gender of household head": [
+   "Female",
+   "Male"
+  ],
+  "Type of farming": [
+   "Conventional",
+   "Organic (not certified)"
+  ]
+ }
+}

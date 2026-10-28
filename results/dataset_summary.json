@@ -1,0 +1,11 @@
+{
+ "rows": 300,
+ "features": 72,
+ "socio_economic": 31,
+ "challenges": 20,
+ "risk_strategies": 21,
+ "missing_values": 0,
+ "target_median_threshold": 2.3333333333333335,
+ "cronbach_alpha": 0.757,
+ "high_share": 0.497
+}

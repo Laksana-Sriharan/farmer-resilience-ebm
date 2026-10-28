@@ -1,0 +1,5 @@
+,Accuracy 95% CI,AUC 95% CI
+Logistic Regression,0.47 to 0.72,0.44 to 0.73
+Random Forest,0.55 to 0.78,0.62 to 0.87
+Gradient Boosting,0.55 to 0.78,0.52 to 0.79
+EBM,0.52 to 0.75,0.52 to 0.78

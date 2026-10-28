@@ -1,0 +1,9 @@
+,EBM,SHAP,Permutation
+1,Gender of farmer,Gender of farmer,RM: Practice drip irrigation/sprinklers to irriga
+2,Invest off-farm income on agriculture,Invest off-farm income on agriculture,Agro-well
+3,Others,Others,RM: Using traditional techniques to control pests
+4,Off-farm income,RM: Using traditional techniques to control pests,Output market
+5,CH: Water scarcity,Fruits,Household size
+6,Input market,Input market,CH: Lack of micro credits
+7,RM: Practice drip irrigation/sprinklers to irriga,Output market,CH: Lack of labor
+8,Get Hired labour or not,CH: High labour cost,Gender of household head
